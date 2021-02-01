@@ -32,7 +32,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "babel-runtime": "https://github.com/DevFullStackJS/babel-runtime.git",
-    "babel-types": "^6.15.0",
+    "babel-types": "https://github.com/DevFullStackJS/babel-types.git",
     "lodash.clone": "^4.5.0"
   },
   "deprecated": false,
